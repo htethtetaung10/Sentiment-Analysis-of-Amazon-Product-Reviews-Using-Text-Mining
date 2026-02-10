@@ -9,4 +9,8 @@ Thesis book: https://drive.google.com/file/d/1lYq3Ke_xH5EJ-nEPRI3AfrVy4Hi9ha50/v
 
 Dataset: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
-Cleaned data: https://drive.google.com/drive/folders/1cWT15d4MXJAboiR_JkcC_ZPYO2np0O3x?usp=drive_link
+Data: https://drive.google.com/drive/folders/1cWT15d4MXJAboiR_JkcC_ZPYO2np0O3x?usp=drive_link
+
+Final model: https://drive.google.com/drive/folders/1DN6GpoAyvy5s8KyGC-b51HBiLy0Bnr-C?usp=drive_link
+
+Tfidf models: https://drive.google.com/drive/folders/15NTZzEPDrS64TXGuoOnNNtjaDoq8W_4q?usp=drive_link
