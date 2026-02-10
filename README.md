@@ -5,6 +5,8 @@ This study has applied five different machine learning algorithms of Bernoulli N
 
 Keywords: Natural Language Processing (NLP), Sentiment Analysis, Text Mining, Tokenization, Machine Learning, Word2vec, N-gram, Product Reviews. 
 
+University repository: https://dea.lib.unideb.hu/browse/subject?scope=a250708c-1ca3-4ef3-960d-18065f388c22&value=Text%20Mining&bbm.return=1
+
 Thesis book: https://drive.google.com/file/d/1lYq3Ke_xH5EJ-nEPRI3AfrVy4Hi9ha50/view?usp=drive_link
 
 Dataset: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
