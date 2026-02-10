@@ -6,5 +6,7 @@ This thesis delves into the pivotal task of classifying product reviews based on
 Keywords: Natural Language Processing (NLP), Sentiment Analysis, Text Mining, Tokenization, Machine Learning, Word2vec, N-gram, Product Reviews. 
 
 Thesis book: https://drive.google.com/file/d/1lYq3Ke_xH5EJ-nEPRI3AfrVy4Hi9ha50/view?usp=drive_link
+
 Dataset: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
 Cleaned data: https://drive.google.com/drive/folders/1cWT15d4MXJAboiR_JkcC_ZPYO2np0O3x?usp=drive_link
