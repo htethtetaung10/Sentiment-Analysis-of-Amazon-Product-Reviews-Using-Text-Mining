@@ -17,23 +17,21 @@ This study has applied five different machine learning algorithms of Bernoulli N
 Amazon fine food product review dataset (text-based) from Kaggle
 
 ## 📁 Repository Structure
-- `data/` – Raw and processed datasets
-- `final_model/` – Trained models
-- `tfidf_models/` – TF-IDF experiments
+- `data/` – Raw and processed datasets (https://drive.google.com/drive/folders/1cWT15d4MXJAboiR_JkcC_ZPYO2np0O3x?usp=drive_lin)
+- `final_model/` – Trained models (https://drive.google.com/drive/folders/1DN6GpoAyvy5s8KyGC-b51HBiLy0Bnr-C?usp=drive_link)
+- `tfidf_models/` – TF-IDF experiments (https://drive.google.com/drive/folders/15NTZzEPDrS64TXGuoOnNNtjaDoq8W_4q?usp=drive_link)
 - `*.ipynb` – Experiment notebooks
 - `cloud_shape.png` – Word cloud representing sentiment distribution in the dataset
 
 ## 🎓 Academic Context
 This work was developed as part of my Master’s thesis in Computer Science.
 
-University repository: https://dea.lib.unideb.hu/browse/subject?scope=a250708c-1ca3-4ef3-960d-18065f388c22&value=Text%20Mining&bbm.return=1
+## 🔗 Relevant Links
+- **University repository**: https://dea.lib.unideb.hu/browse/subject?scope=a250708c-1ca3-4ef3-960d-18065f388c22&value=Text%20Mining&bbm.return=1
+- 📂 **GitHub Repository**: https://github.com/htethtetaung10/Sentiment-Analysis-of-Amazon-Product-Reviews-Using-Text-Mining
+- 📊 **Dataset (Amazon Food Product Reviews)**: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+- 📓 **Notebook (Sentiment Analysis Pipeline)**: sentiment-analysis-final-model.ipynb
+- 📘 **Thesis Document (PDF)**: https://drive.google.com/file/d/1lYq3Ke_xH5EJ-nEPRI3AfrVy4Hi9ha50/view?usp=drive_link
+- 🧠 **TF-IDF Reference**: https://scikit-learn.org/stable/modules/feature_extraction.html
 
-Thesis book: https://drive.google.com/file/d/1lYq3Ke_xH5EJ-nEPRI3AfrVy4Hi9ha50/view?usp=drive_link
 
-Dataset: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
-
-Data: https://drive.google.com/drive/folders/1cWT15d4MXJAboiR_JkcC_ZPYO2np0O3x?usp=drive_link
-
-Final model: https://drive.google.com/drive/folders/1DN6GpoAyvy5s8KyGC-b51HBiLy0Bnr-C?usp=drive_link
-
-Tfidf models: https://drive.google.com/drive/folders/15NTZzEPDrS64TXGuoOnNNtjaDoq8W_4q?usp=drive_link
